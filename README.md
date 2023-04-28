@@ -1,9 +1,21 @@
 # Sandeep Gill's Notes
 
 # This is an H1 header (largest)
+## This is an H2 header (largest)
+### This is an H3 header (smallest)
 ###### This is an H6 header (smallest)
 
 
 ## Summary 
 
-This repository contains all of the notes taken by [Your Name] for the Lighthouse Labs Web Development Bootcamp.
+> hello World
+
+
+> #### This repository contains all of the notes taken by [Your Name] for the Lighthouse Labs Web Development Bootcamp.
+
+## 
+
+```
+New javascript notes
+```
+
